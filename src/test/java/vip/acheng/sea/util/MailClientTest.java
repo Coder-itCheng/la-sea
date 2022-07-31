@@ -1,4 +1,4 @@
-package com.mengzhiayuan.naruto.util;
+package vip.acheng.sea.util;
 
 
 import vip.acheng.sea.SeaApplication;
@@ -10,7 +10,6 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.thymeleaf.TemplateEngine;
 import org.thymeleaf.context.Context;
-import vip.acheng.sea.util.MailClient;
 
 /**
  * @Author: 清风徐来

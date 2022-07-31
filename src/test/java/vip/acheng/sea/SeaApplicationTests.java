@@ -1,4 +1,4 @@
-package com.mengzhiayuan.naruto;
+package vip.acheng.sea;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

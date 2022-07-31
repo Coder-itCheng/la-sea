@@ -1,6 +1,5 @@
-package com.mengzhiayuan.naruto.dao;
+package vip.acheng.sea.dao;
 
-import vip.acheng.sea.dao.MessageMapper;
 import vip.acheng.sea.entity.Message;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

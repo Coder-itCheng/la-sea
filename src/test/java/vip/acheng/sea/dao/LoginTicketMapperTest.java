@@ -1,8 +1,7 @@
-package com.mengzhiayuan.naruto.dao;
+package vip.acheng.sea.dao;
 
 
 import vip.acheng.sea.SeaApplication;
-import vip.acheng.sea.dao.LoginTicketMapper;
 import vip.acheng.sea.entity.LoginTicket;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;

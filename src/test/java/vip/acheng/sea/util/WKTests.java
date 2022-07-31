@@ -1,4 +1,4 @@
-package com.mengzhiayuan.naruto.util;
+package vip.acheng.sea.util;
 
 import java.io.IOException;
 

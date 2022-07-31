@@ -1,9 +1,8 @@
-package com.mengzhiayuan.naruto.util;
+package vip.acheng.sea.util;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
-import vip.acheng.sea.util.SensitiveFilter;
 
 /**
  * @Author: 清风徐来
